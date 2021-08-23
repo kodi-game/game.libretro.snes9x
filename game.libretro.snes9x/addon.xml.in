@@ -19,8 +19,6 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Nintendo - SNES / SFC (Snes9x - Current) 1.60</summary>
-		<description lang="en_GB">Snes9x is a portable, freeware SNES and Super Famicom emulator. Snes9x is coded in C++, with three assembler CPU emulation cores on the i386 Linux and Windows ports.
 
 Icon credit: HarryBana (harrybana.deviantart.com)
 
@@ -35,5 +33,11 @@ Supported files: .smc, .sfc, .swc, .fig, .bs, .st</description>
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="en_GB">Nintendo - SNES / SFC (Snes9x - Current) 1.60</summary>
+		<description lang="en_GB">Snes9x is a portable, freeware SNES and Super Famicom emulator. Snes9x is coded in C++, with three assembler CPU emulation cores on the i386 Linux and Windows ports.
+
+Icon credit: HarryBana (harrybana.deviantart.com)
+
+Supported files: .smc, .sfc, .swc, .fig, .bs, .st</description>
 	</extension>
 </addon>
