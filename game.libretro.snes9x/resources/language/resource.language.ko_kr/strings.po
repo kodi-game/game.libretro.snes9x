@@ -25,6 +25,10 @@ msgctxt "Addon Description"
 msgid "Snes9x is a portable, freeware SNES and Super Famicom emulator.[CR][CR]Snes9x is coded in C++, with three assembler CPU emulation cores on the i386 Linux and Windows ports."
 msgstr ""
 
+msgctxt "Addon Disclaimer"
+msgid "The Snes9X team is not connected or affiliated with any mentioned company in any way. The opinions of the Snes9X team do not reflect the views of the various companies mentioned here. Companies and all products pertaining to that company are trademarks of that company. Please contact that company for trademark and copyright information."
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "설정"
