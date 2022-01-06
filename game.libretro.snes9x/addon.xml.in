@@ -30,7 +30,9 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Nintendo - SNES / SFC (Snes9x - Current) 1.60</summary>
+		<description lang="da_DK">Snes9x er en bærbar, freeware SNES- og Super Famicom-emulator.[CR][CR]Snes9x er kodet i C++ med tre CPU emuleringskerner på i386 Linux- og Windows-versionerne.</description>
 		<description lang="en_GB">Snes9x is a portable, freeware SNES and Super Famicom emulator.[CR][CR]Snes9x is coded in C++, with three assembler CPU emulation cores on the i386 Linux and Windows ports.</description>
+		<disclaimer lang="da_DK">Snes9X-teamet er ikke forbundet med eller tilknyttet nogen nævnt virksomhed på nogen måde. Udtalelserne fra Snes9X-teamet afspejler ikke synspunkterne fra de forskellige virksomheder, der er nævnt her. Virksomheder og alle produkter, der vedrører det pågældende firma, er varemærker tilhørende det pågældende firma. Kontakt venligst det pågældende firma for varemærke- og copyrightoplysninger.</disclaimer>
 		<disclaimer lang="en_GB">The Snes9X team is not connected or affiliated with any mentioned company in any way. The opinions of the Snes9X team do not reflect the views of the various companies mentioned here. Companies and all products pertaining to that company are trademarks of that company. Please contact that company for trademark and copyright information.</disclaimer>
 	</extension>
 </addon>
