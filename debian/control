@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-snes9x (>= 1.60.0) | snes9x (>= 1.60.0)
+               libretro-snes9x (>= 1.61.0) | snes9x (>= 1.61.0)
 Standards-Version: 3.9.8
 Section: libs
 

@@ -1,1 +1,1 @@
-snes9x https://github.com/libretro/snes9x/archive/c5578844e29f7f9545c8b42cc8e3cdc150840bd5.tar.gz
+snes9x https://github.com/libretro/snes9x/archive/d2959e06c1c028e1b25250f5552c5900fafe943d.tar.gz

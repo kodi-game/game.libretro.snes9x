@@ -2,7 +2,7 @@
 <settings>
 	<category label="30000">
 		<setting label="30001" type="select" id="snes9x_region" values="auto|ntsc|pal" default="auto"/>
-		<setting label="30002" type="select" id="snes9x_aspect" values="4:3|uncorrected|auto|ntsc|pal" default="4:3"/>
+		<setting label="30002" type="select" id="snes9x_aspect" values="4:3|4:3 scaled|uncorrected|auto|ntsc|pal" default="4:3"/>
 		<setting label="30003" type="select" id="snes9x_overscan" values="enabled|12_pixels|16_pixels|auto|disabled" default="enabled"/>
 		<setting label="30004" type="select" id="snes9x_gfx_hires" values="enabled|disabled" default="enabled"/>
 		<setting label="30005" type="select" id="snes9x_hires_blend" values="disabled|merge|blur" default="disabled"/>
