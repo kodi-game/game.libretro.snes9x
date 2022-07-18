@@ -46,145 +46,281 @@ msgid "Crop Overscan"
 msgstr "Beskær overskandering"
 
 msgctxt "#30004"
-msgid "Enable Hi-Res Mode"
-msgstr "Aktiver tilstand for høj opløsning"
+msgid "Hi-Res Blending"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Hi-Res Blending"
-msgstr "Blanding i høj opløsning"
+msgid "Blargg NTSC Filter"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Blargg NTSC Filter"
-msgstr "Blargg NTSC-filter"
+msgid "Audio Interpolation"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Audio Interpolation"
-msgstr "Lydinterpolation"
+msgid "Allow Opposing Directions"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Allow Opposing Directions"
-msgstr "Tillad modsatte retninger"
+msgid "SuperFX Overclocking"
+msgstr ""
 
 msgctxt "#30009"
-msgid "SuperFX Overclocking"
-msgstr "SuperFX overclocking"
+msgid "Reduce Slowdown (Hack, Unsafe)"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Reduce Slowdown (Hack, Unsafe)"
-msgstr "Reducer hastighedsnedsættelse (hack, usikker)"
+msgid "Reduce Flickering (Hack, Unsafe)"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Reduce Flickering (Hack, Unsafe)"
-msgstr "Reducer flimmer (hack, usikker)"
+msgid "Randomize Memory (Unsafe)"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Randomize Memory (Unsafe)"
-msgstr "Tilfældiggør hukommelse (usikker)"
+msgid "Block Invalid VRAM Access"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Block Invalid VRAM Access"
-msgstr "Bloker ugyldig VRAM-adgang"
+msgid "Echo Buffer Hack (Unsafe, only enable for old addmusic hacks)"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Echo Buffer Hack (Unsafe, only enable for old addmusic hacks)"
-msgstr "Hack for ekkobuffer (usikker, aktiver kun for gamle addmusic hacks)"
+msgid "Light Gun Mode"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Light Gun Mode"
-msgstr "Tilstand for lightgun"
+msgid "Super Scope Reverse Trigger Buttons"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Super Scope Reverse Trigger Buttons"
-msgstr "Super Scope omvendte trigger-knapper"
+msgid "Super Scope Crosshair"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Super Scope Crosshair"
-msgstr "Super Scope crosshair"
+msgid "Super Scope Color"
+msgstr ""
 
 msgctxt "#30018"
-msgid "Super Scope Color"
-msgstr "Super Scope farve"
+msgid "Justifier 1 Crosshair"
+msgstr ""
 
 msgctxt "#30019"
-msgid "Justifier 1 Crosshair"
-msgstr "Justifier 1 crosshair"
+msgid "Justifier 1 Color"
+msgstr ""
 
 msgctxt "#30020"
-msgid "Justifier 1 Color"
-msgstr "Justifier 1 farve"
+msgid "Justifier 2 Crosshair"
+msgstr ""
 
 msgctxt "#30021"
-msgid "Justifier 2 Crosshair"
-msgstr "Justifier 2 crosshair"
+msgid "Justifier 2 Color"
+msgstr ""
 
 msgctxt "#30022"
-msgid "Justifier 2 Color"
-msgstr "Justifier 2 farve"
+msgid "M.A.C.S. Rifle Crosshair"
+msgstr ""
 
 msgctxt "#30023"
-msgid "M.A.C.S. Rifle Crosshair"
-msgstr "M.A.C.S. riffel crosshair"
+msgid "M.A.C.S. Rifle Color"
+msgstr ""
 
 msgctxt "#30024"
-msgid "M.A.C.S. Rifle Color"
-msgstr "M.A.C.S. farve på riffel"
+msgid "Show Layer 1"
+msgstr ""
 
 msgctxt "#30025"
-msgid "Show Layer 1"
-msgstr "Vis lag 1"
+msgid "Show Layer 2"
+msgstr ""
 
 msgctxt "#30026"
-msgid "Show Layer 2"
-msgstr "Vis lag 2"
+msgid "Show Layer 3"
+msgstr ""
 
 msgctxt "#30027"
-msgid "Show Layer 3"
-msgstr "Vis lag 3"
+msgid "Show Layer 4"
+msgstr ""
 
 msgctxt "#30028"
-msgid "Show Layer 4"
-msgstr "Vis lag 4"
+msgid "Show Sprite Layer"
+msgstr ""
 
 msgctxt "#30029"
-msgid "Show Sprite Layer"
-msgstr "Vis sprite-lag"
-
-msgctxt "#30030"
 msgid "Enable Graphic Clip Windows"
 msgstr ""
 
-msgctxt "#30031"
+msgctxt "#30030"
 msgid "Enable Transparency Effects"
-msgstr "Aktiver gennemsigtighedseffekter"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Enable Sound Channel 1"
+msgstr ""
 
 msgctxt "#30032"
-msgid "Enable Sound Channel 1"
-msgstr "Aktiver lydkanal 1"
+msgid "Enable Sound Channel 2"
+msgstr ""
 
 msgctxt "#30033"
-msgid "Enable Sound Channel 2"
-msgstr "Aktiver lydkanal 2"
+msgid "Enable Sound Channel 3"
+msgstr ""
 
 msgctxt "#30034"
-msgid "Enable Sound Channel 3"
-msgstr "Aktiver lydkanal 3"
+msgid "Enable Sound Channel 4"
+msgstr ""
 
 msgctxt "#30035"
-msgid "Enable Sound Channel 4"
-msgstr "Aktiver lydkanal 4"
+msgid "Enable Sound Channel 5"
+msgstr ""
 
 msgctxt "#30036"
-msgid "Enable Sound Channel 5"
-msgstr "Aktiver lydkanal 5"
+msgid "Enable Sound Channel 6"
+msgstr ""
 
 msgctxt "#30037"
-msgid "Enable Sound Channel 6"
-msgstr "Aktiver lydkanal 6"
+msgid "Enable Sound Channel 7"
+msgstr ""
 
 msgctxt "#30038"
-msgid "Enable Sound Channel 7"
-msgstr "Aktiver lydkanal 7"
-
-msgctxt "#30039"
 msgid "Enable Sound Channel 8"
-msgstr "Aktiver lydkanal 8"
+msgstr ""
+
+#~ msgctxt "#30004"
+#~ msgid "Enable Hi-Res Mode"
+#~ msgstr "Aktiver tilstand for høj opløsning"
+
+#~ msgctxt "#30005"
+#~ msgid "Hi-Res Blending"
+#~ msgstr "Blanding i høj opløsning"
+
+#~ msgctxt "#30006"
+#~ msgid "Blargg NTSC Filter"
+#~ msgstr "Blargg NTSC-filter"
+
+#~ msgctxt "#30007"
+#~ msgid "Audio Interpolation"
+#~ msgstr "Lydinterpolation"
+
+#~ msgctxt "#30008"
+#~ msgid "Allow Opposing Directions"
+#~ msgstr "Tillad modsatte retninger"
+
+#~ msgctxt "#30009"
+#~ msgid "SuperFX Overclocking"
+#~ msgstr "SuperFX overclocking"
+
+#~ msgctxt "#30010"
+#~ msgid "Reduce Slowdown (Hack, Unsafe)"
+#~ msgstr "Reducer hastighedsnedsættelse (hack, usikker)"
+
+#~ msgctxt "#30011"
+#~ msgid "Reduce Flickering (Hack, Unsafe)"
+#~ msgstr "Reducer flimmer (hack, usikker)"
+
+#~ msgctxt "#30012"
+#~ msgid "Randomize Memory (Unsafe)"
+#~ msgstr "Tilfældiggør hukommelse (usikker)"
+
+#~ msgctxt "#30013"
+#~ msgid "Block Invalid VRAM Access"
+#~ msgstr "Bloker ugyldig VRAM-adgang"
+
+#~ msgctxt "#30014"
+#~ msgid "Echo Buffer Hack (Unsafe, only enable for old addmusic hacks)"
+#~ msgstr "Hack for ekkobuffer (usikker, aktiver kun for gamle addmusic hacks)"
+
+#~ msgctxt "#30015"
+#~ msgid "Light Gun Mode"
+#~ msgstr "Tilstand for lightgun"
+
+#~ msgctxt "#30016"
+#~ msgid "Super Scope Reverse Trigger Buttons"
+#~ msgstr "Super Scope omvendte trigger-knapper"
+
+#~ msgctxt "#30017"
+#~ msgid "Super Scope Crosshair"
+#~ msgstr "Super Scope crosshair"
+
+#~ msgctxt "#30018"
+#~ msgid "Super Scope Color"
+#~ msgstr "Super Scope farve"
+
+#~ msgctxt "#30019"
+#~ msgid "Justifier 1 Crosshair"
+#~ msgstr "Justifier 1 crosshair"
+
+#~ msgctxt "#30020"
+#~ msgid "Justifier 1 Color"
+#~ msgstr "Justifier 1 farve"
+
+#~ msgctxt "#30021"
+#~ msgid "Justifier 2 Crosshair"
+#~ msgstr "Justifier 2 crosshair"
+
+#~ msgctxt "#30022"
+#~ msgid "Justifier 2 Color"
+#~ msgstr "Justifier 2 farve"
+
+#~ msgctxt "#30023"
+#~ msgid "M.A.C.S. Rifle Crosshair"
+#~ msgstr "M.A.C.S. riffel crosshair"
+
+#~ msgctxt "#30024"
+#~ msgid "M.A.C.S. Rifle Color"
+#~ msgstr "M.A.C.S. farve på riffel"
+
+#~ msgctxt "#30025"
+#~ msgid "Show Layer 1"
+#~ msgstr "Vis lag 1"
+
+#~ msgctxt "#30026"
+#~ msgid "Show Layer 2"
+#~ msgstr "Vis lag 2"
+
+#~ msgctxt "#30027"
+#~ msgid "Show Layer 3"
+#~ msgstr "Vis lag 3"
+
+#~ msgctxt "#30028"
+#~ msgid "Show Layer 4"
+#~ msgstr "Vis lag 4"
+
+#~ msgctxt "#30029"
+#~ msgid "Show Sprite Layer"
+#~ msgstr "Vis sprite-lag"
+
+#~ msgctxt "#30031"
+#~ msgid "Enable Transparency Effects"
+#~ msgstr "Aktiver gennemsigtighedseffekter"
+
+#~ msgctxt "#30032"
+#~ msgid "Enable Sound Channel 1"
+#~ msgstr "Aktiver lydkanal 1"
+
+#~ msgctxt "#30033"
+#~ msgid "Enable Sound Channel 2"
+#~ msgstr "Aktiver lydkanal 2"
+
+#~ msgctxt "#30034"
+#~ msgid "Enable Sound Channel 3"
+#~ msgstr "Aktiver lydkanal 3"
+
+#~ msgctxt "#30035"
+#~ msgid "Enable Sound Channel 4"
+#~ msgstr "Aktiver lydkanal 4"
+
+#~ msgctxt "#30036"
+#~ msgid "Enable Sound Channel 5"
+#~ msgstr "Aktiver lydkanal 5"
+
+#~ msgctxt "#30037"
+#~ msgid "Enable Sound Channel 6"
+#~ msgstr "Aktiver lydkanal 6"
+
+#~ msgctxt "#30038"
+#~ msgid "Enable Sound Channel 7"
+#~ msgstr "Aktiver lydkanal 7"
+
+#~ msgctxt "#30039"
+#~ msgid "Enable Sound Channel 8"
+#~ msgstr "Aktiver lydkanal 8"

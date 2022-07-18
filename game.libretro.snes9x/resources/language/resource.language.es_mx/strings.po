@@ -46,145 +46,285 @@ msgid "Crop Overscan"
 msgstr "Cortar sobreescaneo"
 
 msgctxt "#30004"
-msgid "Enable Hi-Res Mode"
-msgstr "Activar modo de alta resolución"
+msgid "Hi-Res Blending"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Hi-Res Blending"
-msgstr "Fundido de alta resolución"
+msgid "Blargg NTSC Filter"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Blargg NTSC Filter"
-msgstr "Filtro NTSC Blargg"
+msgid "Audio Interpolation"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Audio Interpolation"
-msgstr "Interpolación de audio"
+msgid "Allow Opposing Directions"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Allow Opposing Directions"
-msgstr "Permitir direcciones opuestas"
+msgid "SuperFX Overclocking"
+msgstr ""
 
 msgctxt "#30009"
-msgid "SuperFX Overclocking"
-msgstr "Overclocking SuperFX"
+msgid "Reduce Slowdown (Hack, Unsafe)"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Reduce Slowdown (Hack, Unsafe)"
-msgstr "Reducir ralentización (hack, no seguro)"
+msgid "Reduce Flickering (Hack, Unsafe)"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Reduce Flickering (Hack, Unsafe)"
-msgstr "Reducir parpadeo (hack, no seguro)"
+msgid "Randomize Memory (Unsafe)"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Randomize Memory (Unsafe)"
-msgstr "Aleatorizar emoria (no seguro)"
+msgid "Block Invalid VRAM Access"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Block Invalid VRAM Access"
-msgstr "Bloquear accesos inválidos a VRAM"
+msgid "Echo Buffer Hack (Unsafe, only enable for old addmusic hacks)"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Echo Buffer Hack (Unsafe, only enable for old addmusic hacks)"
-msgstr "Hack de eco de búfer (no seguro, activar solo para hacks addmusic antiguos)"
+msgid "Light Gun Mode"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Light Gun Mode"
-msgstr "Modo pistola de luz"
+msgid "Super Scope Reverse Trigger Buttons"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Super Scope Reverse Trigger Buttons"
-msgstr "Botones de gatillos inversos Super Scope"
+msgid "Super Scope Crosshair"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Super Scope Crosshair"
-msgstr "Mira Super Scope"
+msgid "Super Scope Color"
+msgstr ""
 
 msgctxt "#30018"
-msgid "Super Scope Color"
-msgstr "Color de Super Scope"
+msgid "Justifier 1 Crosshair"
+msgstr ""
 
 msgctxt "#30019"
-msgid "Justifier 1 Crosshair"
-msgstr "Mira de Justifier 1"
+msgid "Justifier 1 Color"
+msgstr ""
 
 msgctxt "#30020"
-msgid "Justifier 1 Color"
-msgstr "Color de Justifier 1"
+msgid "Justifier 2 Crosshair"
+msgstr ""
 
 msgctxt "#30021"
-msgid "Justifier 2 Crosshair"
-msgstr "Mira de Justifier 2"
+msgid "Justifier 2 Color"
+msgstr ""
 
 msgctxt "#30022"
-msgid "Justifier 2 Color"
-msgstr "Color de Justifier 2"
+msgid "M.A.C.S. Rifle Crosshair"
+msgstr ""
 
 msgctxt "#30023"
-msgid "M.A.C.S. Rifle Crosshair"
-msgstr "Mira de rifle M.A.C.S."
+msgid "M.A.C.S. Rifle Color"
+msgstr ""
 
 msgctxt "#30024"
-msgid "M.A.C.S. Rifle Color"
-msgstr "Color de rifle M.A.C.S."
+msgid "Show Layer 1"
+msgstr ""
 
 msgctxt "#30025"
-msgid "Show Layer 1"
-msgstr "Mostrar capa 1"
+msgid "Show Layer 2"
+msgstr ""
 
 msgctxt "#30026"
-msgid "Show Layer 2"
-msgstr "Mostrar capa 2"
+msgid "Show Layer 3"
+msgstr ""
 
 msgctxt "#30027"
-msgid "Show Layer 3"
-msgstr "Mostrar capa 3"
+msgid "Show Layer 4"
+msgstr ""
 
 msgctxt "#30028"
-msgid "Show Layer 4"
-msgstr "Mostrar capa 4"
+msgid "Show Sprite Layer"
+msgstr ""
 
 msgctxt "#30029"
-msgid "Show Sprite Layer"
-msgstr "Mostrar capa de sprites"
+msgid "Enable Graphic Clip Windows"
+msgstr ""
 
 msgctxt "#30030"
-msgid "Enable Graphic Clip Windows"
-msgstr "Activar ventanas de clip gráfico"
+msgid "Enable Transparency Effects"
+msgstr ""
 
 msgctxt "#30031"
-msgid "Enable Transparency Effects"
-msgstr "Activar efectos de transparencia"
+msgid "Enable Sound Channel 1"
+msgstr ""
 
 msgctxt "#30032"
-msgid "Enable Sound Channel 1"
-msgstr "Activar 1º canal de sonido"
+msgid "Enable Sound Channel 2"
+msgstr ""
 
 msgctxt "#30033"
-msgid "Enable Sound Channel 2"
-msgstr "Activar 2º canal de sonido"
+msgid "Enable Sound Channel 3"
+msgstr ""
 
 msgctxt "#30034"
-msgid "Enable Sound Channel 3"
-msgstr "Activar 3º canal de sonido"
+msgid "Enable Sound Channel 4"
+msgstr ""
 
 msgctxt "#30035"
-msgid "Enable Sound Channel 4"
-msgstr "Activar 4º canal de sonido"
+msgid "Enable Sound Channel 5"
+msgstr ""
 
 msgctxt "#30036"
-msgid "Enable Sound Channel 5"
-msgstr "Activar 5º canal de sonido"
+msgid "Enable Sound Channel 6"
+msgstr ""
 
 msgctxt "#30037"
-msgid "Enable Sound Channel 6"
-msgstr "Activar 6º canal de sonido"
+msgid "Enable Sound Channel 7"
+msgstr ""
 
 msgctxt "#30038"
-msgid "Enable Sound Channel 7"
-msgstr "Activar 7º canal de sonido"
-
-msgctxt "#30039"
 msgid "Enable Sound Channel 8"
-msgstr "Activar 8º canal de sonido"
+msgstr ""
+
+#~ msgctxt "#30004"
+#~ msgid "Enable Hi-Res Mode"
+#~ msgstr "Activar modo de alta resolución"
+
+#~ msgctxt "#30005"
+#~ msgid "Hi-Res Blending"
+#~ msgstr "Fundido de alta resolución"
+
+#~ msgctxt "#30006"
+#~ msgid "Blargg NTSC Filter"
+#~ msgstr "Filtro NTSC Blargg"
+
+#~ msgctxt "#30007"
+#~ msgid "Audio Interpolation"
+#~ msgstr "Interpolación de audio"
+
+#~ msgctxt "#30008"
+#~ msgid "Allow Opposing Directions"
+#~ msgstr "Permitir direcciones opuestas"
+
+#~ msgctxt "#30009"
+#~ msgid "SuperFX Overclocking"
+#~ msgstr "Overclocking SuperFX"
+
+#~ msgctxt "#30010"
+#~ msgid "Reduce Slowdown (Hack, Unsafe)"
+#~ msgstr "Reducir ralentización (hack, no seguro)"
+
+#~ msgctxt "#30011"
+#~ msgid "Reduce Flickering (Hack, Unsafe)"
+#~ msgstr "Reducir parpadeo (hack, no seguro)"
+
+#~ msgctxt "#30012"
+#~ msgid "Randomize Memory (Unsafe)"
+#~ msgstr "Aleatorizar emoria (no seguro)"
+
+#~ msgctxt "#30013"
+#~ msgid "Block Invalid VRAM Access"
+#~ msgstr "Bloquear accesos inválidos a VRAM"
+
+#~ msgctxt "#30014"
+#~ msgid "Echo Buffer Hack (Unsafe, only enable for old addmusic hacks)"
+#~ msgstr "Hack de eco de búfer (no seguro, activar solo para hacks addmusic antiguos)"
+
+#~ msgctxt "#30015"
+#~ msgid "Light Gun Mode"
+#~ msgstr "Modo pistola de luz"
+
+#~ msgctxt "#30016"
+#~ msgid "Super Scope Reverse Trigger Buttons"
+#~ msgstr "Botones de gatillos inversos Super Scope"
+
+#~ msgctxt "#30017"
+#~ msgid "Super Scope Crosshair"
+#~ msgstr "Mira Super Scope"
+
+#~ msgctxt "#30018"
+#~ msgid "Super Scope Color"
+#~ msgstr "Color de Super Scope"
+
+#~ msgctxt "#30019"
+#~ msgid "Justifier 1 Crosshair"
+#~ msgstr "Mira de Justifier 1"
+
+#~ msgctxt "#30020"
+#~ msgid "Justifier 1 Color"
+#~ msgstr "Color de Justifier 1"
+
+#~ msgctxt "#30021"
+#~ msgid "Justifier 2 Crosshair"
+#~ msgstr "Mira de Justifier 2"
+
+#~ msgctxt "#30022"
+#~ msgid "Justifier 2 Color"
+#~ msgstr "Color de Justifier 2"
+
+#~ msgctxt "#30023"
+#~ msgid "M.A.C.S. Rifle Crosshair"
+#~ msgstr "Mira de rifle M.A.C.S."
+
+#~ msgctxt "#30024"
+#~ msgid "M.A.C.S. Rifle Color"
+#~ msgstr "Color de rifle M.A.C.S."
+
+#~ msgctxt "#30025"
+#~ msgid "Show Layer 1"
+#~ msgstr "Mostrar capa 1"
+
+#~ msgctxt "#30026"
+#~ msgid "Show Layer 2"
+#~ msgstr "Mostrar capa 2"
+
+#~ msgctxt "#30027"
+#~ msgid "Show Layer 3"
+#~ msgstr "Mostrar capa 3"
+
+#~ msgctxt "#30028"
+#~ msgid "Show Layer 4"
+#~ msgstr "Mostrar capa 4"
+
+#~ msgctxt "#30029"
+#~ msgid "Show Sprite Layer"
+#~ msgstr "Mostrar capa de sprites"
+
+#~ msgctxt "#30030"
+#~ msgid "Enable Graphic Clip Windows"
+#~ msgstr "Activar ventanas de clip gráfico"
+
+#~ msgctxt "#30031"
+#~ msgid "Enable Transparency Effects"
+#~ msgstr "Activar efectos de transparencia"
+
+#~ msgctxt "#30032"
+#~ msgid "Enable Sound Channel 1"
+#~ msgstr "Activar 1º canal de sonido"
+
+#~ msgctxt "#30033"
+#~ msgid "Enable Sound Channel 2"
+#~ msgstr "Activar 2º canal de sonido"
+
+#~ msgctxt "#30034"
+#~ msgid "Enable Sound Channel 3"
+#~ msgstr "Activar 3º canal de sonido"
+
+#~ msgctxt "#30035"
+#~ msgid "Enable Sound Channel 4"
+#~ msgstr "Activar 4º canal de sonido"
+
+#~ msgctxt "#30036"
+#~ msgid "Enable Sound Channel 5"
+#~ msgstr "Activar 5º canal de sonido"
+
+#~ msgctxt "#30037"
+#~ msgid "Enable Sound Channel 6"
+#~ msgstr "Activar 6º canal de sonido"
+
+#~ msgctxt "#30038"
+#~ msgid "Enable Sound Channel 7"
+#~ msgstr "Activar 7º canal de sonido"
+
+#~ msgctxt "#30039"
+#~ msgid "Enable Sound Channel 8"
+#~ msgstr "Activar 8º canal de sonido"
