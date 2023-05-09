@@ -29,6 +29,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">Nintendo - SNES / SFC (Snes9x - Nuværende)</summary>
 		<summary lang="en_GB">Nintendo - SNES / SFC (Snes9x - Current)</summary>
 		<summary lang="es_ES">Nintendo - SNES / SFC (Snes9x - Actual)</summary>
 		<description lang="da_DK">Snes9x er en bærbar, freeware SNES- og Super Famicom-emulator.[CR][CR]Snes9x er kodet i C++ med tre CPU emuleringskerner på i386 Linux- og Windows-versionerne.</description>
