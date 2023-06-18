@@ -13,5 +13,5 @@ Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
 Enhances: kodi
-Description: Nintendo - SNES / SFC (Snes9x - Current) core for kodi's retroplayer
- Nintendo - SNES / SFC (Snes9x - Current) core for kodi's retroplayer
+Description: Nintendo - SNES / SFC (Snes9x) core for kodi's retroplayer
+ Nintendo - SNES / SFC (Snes9x) core for kodi's retroplayer

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.snes9x"
-		name="Nintendo - SNES / SFC (Snes9x - Current)"
-		version="1.62.3.42"
+		name="Nintendo - SNES / SFC (Snes9x)"
+		version="1.62.3.43"
 		provider-name="Snes9x Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -30,7 +30,7 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="da_DK">Nintendo - SNES / SFC (Snes9x - Nuværende)</summary>
-		<summary lang="en_GB">Nintendo - SNES / SFC (Snes9x - Current)</summary>
+		<summary lang="en_GB">Nintendo - SNES / SFC (Snes9x)</summary>
 		<summary lang="es_ES">Nintendo - SNES / SFC (Snes9x - Actual)</summary>
 		<summary lang="zh_CN">任天堂 - SNES / SFC (Snes9x - Current)</summary>
 		<description lang="da_DK">Snes9x er en bærbar, freeware SNES- og Super Famicom-emulator.[CR][CR]Snes9x er kodet i C++ med tre CPU emuleringskerner på i386 Linux- og Windows-versionerne.</description>

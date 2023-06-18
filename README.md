@@ -1,4 +1,4 @@
-# Nintendo - SNES / SFC (Snes9x - Current)
+# Nintendo - SNES / SFC (Snes9x)
 
 ### Description
 
@@ -12,7 +12,7 @@ Non-commercial
 
 ### Icon
 
-![Nintendo - SNES / SFC (Snes9x - Current) icon](game.libretro.snes9x/resources/icon.png)
+![Nintendo - SNES / SFC (Snes9x) icon](game.libretro.snes9x/resources/icon.png)
 
 ### Fanart
 
@@ -20,9 +20,9 @@ Help make me fanart!
 
 ### Screenshots
 
-![Nintendo - SNES / SFC (Snes9x - Current) screenshot](game.libretro.snes9x/resources/screenshot-01.jpg)
-![Nintendo - SNES / SFC (Snes9x - Current) screenshot](game.libretro.snes9x/resources/screenshot-02.jpg)
-![Nintendo - SNES / SFC (Snes9x - Current) screenshot](game.libretro.snes9x/resources/screenshot-03.jpg)
+![Nintendo - SNES / SFC (Snes9x) screenshot](game.libretro.snes9x/resources/screenshot-01.jpg)
+![Nintendo - SNES / SFC (Snes9x) screenshot](game.libretro.snes9x/resources/screenshot-02.jpg)
+![Nintendo - SNES / SFC (Snes9x) screenshot](game.libretro.snes9x/resources/screenshot-03.jpg)
 
 ### Disclaimer
 
