@@ -18,8 +18,8 @@ msgstr ""
 "X-Generator: Weblate 4.17\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - SNES / SFC (Snes9x - Current)"
-msgstr "任天堂 - SNES / SFC (Snes9x - Current)"
+msgid "Nintendo - SNES / SFC (Snes9x)"
+msgstr ""
 
 msgctxt "Addon Description"
 msgid "Snes9x is a portable, freeware SNES and Super Famicom emulator.[CR][CR]Snes9x is coded in C++, with three assembler CPU emulation cores on the i386 Linux and Windows ports."
@@ -184,3 +184,7 @@ msgstr "启用声道7"
 msgctxt "#30038"
 msgid "Enable Sound Channel 8"
 msgstr "启用声道8"
+
+#~ msgctxt "Addon Summary"
+#~ msgid "Nintendo - SNES / SFC (Snes9x - Current)"
+#~ msgstr "任天堂 - SNES / SFC (Snes9x - Current)"
