@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.snes9x"
 		name="Nintendo - SNES / SFC (Snes9x)"
-		version="1.62.3.47"
+		version="1.62.3.48"
 		provider-name="Snes9x Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
