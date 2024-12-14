@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "The Snes9X team is not connected or affiliated with any mentioned company in any way. The opinions of the Snes9X team do not reflect the views of the various companies mentioned here. Companies and all products pertaining to that company are trademarks of that company. Please contact that company for trademark and copyright information."
 msgstr "Snes9X 团队与上述任何公司均无任何关联。Snes9X 团队的意见并不反映此处提到的各个公司的意见。公司和与该公司相关的所有产品均为该公司的商标。请联系该公司获取商标和版权信息。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Console Region (Reload Core)"
 msgstr "控制台区域（重新加载核心）"
@@ -184,6 +180,10 @@ msgstr "启用声道7"
 msgctxt "#30038"
 msgid "Enable Sound Channel 8"
 msgstr "启用声道8"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
 
 #~ msgctxt "Addon Summary"
 #~ msgid "Nintendo - SNES / SFC (Snes9x - Current)"

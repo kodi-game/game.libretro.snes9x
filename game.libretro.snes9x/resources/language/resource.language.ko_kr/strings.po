@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "The Snes9X team is not connected or affiliated with any mentioned company in any way. The opinions of the Snes9X team do not reflect the views of the various companies mentioned here. Companies and all products pertaining to that company are trademarks of that company. Please contact that company for trademark and copyright information."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "설정"
-
 msgctxt "#30001"
 msgid "Console Region (Reload Core)"
 msgstr ""
@@ -184,3 +180,7 @@ msgstr ""
 msgctxt "#30038"
 msgid "Enable Sound Channel 8"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "설정"

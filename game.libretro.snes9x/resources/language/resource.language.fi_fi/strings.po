@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "The Snes9X team is not connected or affiliated with any mentioned company in any way. The opinions of the Snes9X team do not reflect the views of the various companies mentioned here. Companies and all products pertaining to that company are trademarks of that company. Please contact that company for trademark and copyright information."
 msgstr "Snes9X-tiimi ei ole mitenkään yhteydessä tai sidoksissa mainittuihin yrityksiin, eivätkä Snes9X-tiimin mielipiteet heijasta mainittujen yritysten näkemyksiä. Yritykset ja kaikki niiden tuotteet ovat kyseisten yritysten tavaramerkkejä. Tavaramerkki- ja tekijänoikeustietoihin liittyen ole yhteydessä kyseisiin yrityksiin."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Asetukset"
-
 msgctxt "#30001"
 msgid "Console Region (Reload Core)"
 msgstr "Konsolin alue (ytimen uudelleenlataus)"
@@ -184,6 +180,10 @@ msgstr ""
 msgctxt "#30038"
 msgid "Enable Sound Channel 8"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Asetukset"
 
 #~ msgctxt "#30004"
 #~ msgid "Enable Hi-Res Mode"

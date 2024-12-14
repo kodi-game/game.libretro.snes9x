@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "The Snes9X team is not connected or affiliated with any mentioned company in any way. The opinions of the Snes9X team do not reflect the views of the various companies mentioned here. Companies and all products pertaining to that company are trademarks of that company. Please contact that company for trademark and copyright information."
 msgstr "Das Snes9X-Team ist in keiner Weise mit den genannten Unternehmen geschäftlich verbunden oder angegliedert. Die Meinungen des Snes9X-Teams spiegeln nicht die Ansichten der verschiedenen hier genannten Unternehmen wider. Unternehmen und alle Produkte, die mit diesem Unternehmen in Verbindung stehen, sind Warenzeichen des jeweiligen Unternehmens. Bitte an das jeweilige Unternehmen wenden, um Informationen zu Marken und Copyright zu erhalten."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Einstellungen"
-
 msgctxt "#30001"
 msgid "Console Region (Reload Core)"
 msgstr "Konsolenregion (Core neu laden)"
@@ -184,3 +180,7 @@ msgstr "Soundkanal 7 aktivieren"
 msgctxt "#30038"
 msgid "Enable Sound Channel 8"
 msgstr "Soundkanal 8 aktivieren"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
