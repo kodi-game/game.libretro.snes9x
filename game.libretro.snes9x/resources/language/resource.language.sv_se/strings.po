@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.snes9x\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-snes9x/sv_se/>\n"
 "Language: sv_se\n"
@@ -31,15 +31,15 @@ msgstr "Snes9X-teamet är inte anslutet eller anslutet till något nämnt föret
 
 msgctxt "#30001"
 msgid "Console Region (Reload Core)"
-msgstr ""
+msgstr "Konsollregion (läs om kärna)"
 
 msgctxt "#30002"
 msgid "Preferred Aspect Ratio"
-msgstr ""
+msgstr "Föredraget bildförhållande"
 
 msgctxt "#30003"
 msgid "Crop Overscan"
-msgstr ""
+msgstr "Beskär overscan"
 
 msgctxt "#30004"
 msgid "Hi-Res Blending"
@@ -51,7 +51,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Audio Interpolation"
-msgstr ""
+msgstr "Ljudinterpolering"
 
 msgctxt "#30007"
 msgid "Allow Opposing Directions"
@@ -83,11 +83,11 @@ msgstr ""
 
 msgctxt "#30014"
 msgid "Light Gun Mode"
-msgstr ""
+msgstr "Ljuspistolsläge"
 
 msgctxt "#30015"
 msgid "Super Scope Reverse Trigger Buttons"
-msgstr ""
+msgstr "Omvända avtryckarknappar för Super Scope"
 
 msgctxt "#30016"
 msgid "Super Scope Crosshair"
