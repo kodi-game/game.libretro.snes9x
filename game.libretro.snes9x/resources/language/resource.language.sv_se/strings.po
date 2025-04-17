@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.snes9x\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-11 09:05+0000\n"
+"PO-Revision-Date: 2025-04-17 04:27+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-snes9x/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - SNES / SFC (Snes9x)"
@@ -39,16 +39,18 @@ msgstr "Föredraget bildförhållande"
 
 msgctxt "#30003"
 msgid "Crop Overscan"
-msgstr "Beskär overscan"
+msgstr "Beskär överskanning"
 
+#, fuzzy
 msgctxt "#30004"
 msgid "Hi-Res Blending"
-msgstr ""
+msgstr "Högupplösta blandningar"
 
 msgctxt "#30005"
 msgid "Blargg NTSC Filter"
-msgstr ""
+msgstr "Blargg NTSC-filter"
 
+#, fuzzy
 msgctxt "#30006"
 msgid "Audio Interpolation"
 msgstr "Ljudinterpolering"
@@ -57,29 +59,35 @@ msgctxt "#30007"
 msgid "Allow Opposing Directions"
 msgstr "Tillåt motsatta riktningar"
 
+#, fuzzy
 msgctxt "#30008"
 msgid "SuperFX Overclocking"
-msgstr ""
+msgstr "SuperFX Överklockning"
 
+#, fuzzy
 msgctxt "#30009"
 msgid "Reduce Slowdown (Hack, Unsafe)"
-msgstr ""
+msgstr "Minska inbromsningen (hack, osäkert)"
 
+#, fuzzy
 msgctxt "#30010"
 msgid "Reduce Flickering (Hack, Unsafe)"
-msgstr ""
+msgstr "Minska flimmer (hack, osäkert)"
 
+#, fuzzy
 msgctxt "#30011"
 msgid "Randomize Memory (Unsafe)"
-msgstr ""
+msgstr "Randomize Memory (osäkert)"
 
+#, fuzzy
 msgctxt "#30012"
 msgid "Block Invalid VRAM Access"
-msgstr ""
+msgstr "Block Ogiltig VRAM-åtkomst"
 
+#, fuzzy
 msgctxt "#30013"
 msgid "Echo Buffer Hack (Unsafe, only enable for old addmusic hacks)"
-msgstr ""
+msgstr "Echo Buffer Hack (Osäker, aktivera endast för gamla addmusic-hack)"
 
 msgctxt "#30014"
 msgid "Light Gun Mode"
@@ -89,97 +97,106 @@ msgctxt "#30015"
 msgid "Super Scope Reverse Trigger Buttons"
 msgstr "Omvända avtryckarknappar för Super Scope"
 
+#, fuzzy
 msgctxt "#30016"
 msgid "Super Scope Crosshair"
-msgstr ""
+msgstr "Super Scope hårkors"
 
+#, fuzzy
 msgctxt "#30017"
 msgid "Super Scope Color"
-msgstr ""
+msgstr "Super Scope Färg"
 
+#, fuzzy
 msgctxt "#30018"
 msgid "Justifier 1 Crosshair"
-msgstr ""
+msgstr "Justifier 1 hårkors"
 
+#, fuzzy
 msgctxt "#30019"
 msgid "Justifier 1 Color"
-msgstr ""
+msgstr "Rättfärdigare 1 Färg"
 
+#, fuzzy
 msgctxt "#30020"
 msgid "Justifier 2 Crosshair"
-msgstr ""
+msgstr "Justifier 2 hårkors"
 
+#, fuzzy
 msgctxt "#30021"
 msgid "Justifier 2 Color"
-msgstr ""
+msgstr "Justifier 2 Färg"
 
+#, fuzzy
 msgctxt "#30022"
 msgid "M.A.C.S. Rifle Crosshair"
-msgstr ""
+msgstr "M.A.C.S. hårkors för gevär"
 
+#, fuzzy
 msgctxt "#30023"
 msgid "M.A.C.S. Rifle Color"
-msgstr ""
+msgstr "M.A.C.S. färg på gevär"
 
 msgctxt "#30024"
 msgid "Show Layer 1"
-msgstr ""
+msgstr "Visa lager 1"
 
 msgctxt "#30025"
 msgid "Show Layer 2"
-msgstr ""
+msgstr "Visa lager 2"
 
 msgctxt "#30026"
 msgid "Show Layer 3"
-msgstr ""
+msgstr "Visa lager 3"
 
 msgctxt "#30027"
 msgid "Show Layer 4"
-msgstr ""
+msgstr "Visa lager 4"
 
 msgctxt "#30028"
 msgid "Show Sprite Layer"
-msgstr ""
+msgstr "Visa Sprite-lager"
 
+#, fuzzy
 msgctxt "#30029"
 msgid "Enable Graphic Clip Windows"
-msgstr ""
+msgstr "Aktivera fönster för grafiska klipp"
 
 msgctxt "#30030"
 msgid "Enable Transparency Effects"
-msgstr ""
+msgstr "Aktivera transparenseffekter"
 
 msgctxt "#30031"
 msgid "Enable Sound Channel 1"
-msgstr ""
+msgstr "Aktivera ljudkanal 1"
 
 msgctxt "#30032"
 msgid "Enable Sound Channel 2"
-msgstr ""
+msgstr "Aktivera ljudkanal 2"
 
 msgctxt "#30033"
 msgid "Enable Sound Channel 3"
-msgstr ""
+msgstr "Aktivera ljudkanal 3"
 
 msgctxt "#30034"
 msgid "Enable Sound Channel 4"
-msgstr ""
+msgstr "Aktivera ljudkanal 4"
 
 msgctxt "#30035"
 msgid "Enable Sound Channel 5"
-msgstr ""
+msgstr "Aktivera ljudkanal 5"
 
 msgctxt "#30036"
 msgid "Enable Sound Channel 6"
-msgstr ""
+msgstr "Aktivera ljudkanal 6"
 
 msgctxt "#30037"
 msgid "Enable Sound Channel 7"
-msgstr ""
+msgstr "Aktivera ljudkanal 7"
 
 msgctxt "#30038"
 msgid "Enable Sound Channel 8"
-msgstr ""
+msgstr "Aktivera ljudkanal 8"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
