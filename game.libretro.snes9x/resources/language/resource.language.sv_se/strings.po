@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.snes9x\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-17 04:27+0000\n"
+"PO-Revision-Date: 2025-04-22 22:51+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-snes9x/sv_se/>\n"
 "Language: sv_se\n"
@@ -97,15 +97,13 @@ msgctxt "#30015"
 msgid "Super Scope Reverse Trigger Buttons"
 msgstr "Omvända avtryckarknappar för Super Scope"
 
-#, fuzzy
 msgctxt "#30016"
 msgid "Super Scope Crosshair"
-msgstr "Super Scope hårkors"
+msgstr "Super Scope-hårkors"
 
-#, fuzzy
 msgctxt "#30017"
 msgid "Super Scope Color"
-msgstr "Super Scope Färg"
+msgstr "Super Scope-färg"
 
 #, fuzzy
 msgctxt "#30018"
