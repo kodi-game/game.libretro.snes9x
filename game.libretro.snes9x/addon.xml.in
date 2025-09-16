@@ -32,6 +32,7 @@
 		<summary lang="da_DK">Nintendo - SNES / SFC (Snes9x)</summary>
 		<summary lang="en_GB">Nintendo - SNES / SFC (Snes9x)</summary>
 		<summary lang="es_ES">Nintendo - SNES / SFC (Snes9x)</summary>
+		<summary lang="ga">Nintendo - SNES / SFC (SNES9X)</summary>
 		<summary lang="sv_SE">Nintendo - SNES / SFC (Snes9x)</summary>
 		<summary lang="zh_CN">任天堂 - SNES / SFC (Snes9x)</summary>
 		<description lang="da_DK">Snes9x er en bærbar, freeware SNES- og Super Famicom-emulator.[CR][CR]Snes9x er kodet i C++ med tre CPU emuleringskerner på i386 Linux- og Windows-versionerne.</description>
@@ -39,6 +40,7 @@
 		<description lang="en_GB">Snes9x is a portable, freeware SNES and Super Famicom emulator.[CR][CR]Snes9x is coded in C++, with three assembler CPU emulation cores on the i386 Linux and Windows ports.</description>
 		<description lang="es_ES">Snes9x es un emulador gratuito y portátil de SNES y Super Famicom[CR][CR]Snes9x está codificado en C++, con tres núcleos de emulación de CPU en ensamblador para las versiones i386 de Linux y Windows.</description>
 		<description lang="fi_FI">Snes9x on kannettava, ilmainen SNES- ja Super Famicom -emulaattori.[CR][CR]Snes9x on koodattu C++-kielellä ja se sisältää kolme Assembler-prosessorin emulointiydintä i386 Linux- ja Windows-käännöksissä.</description>
+		<description lang="ga">Is éard atá i SNES9X ná aithriseoir iniompartha, freeware SNES agus Super Famicom.</description>
 		<description lang="sv_SE">Snes9x är en portabel freeware-emulator för SNES och Super Famicom.[CR][CR]Snes9x är kodad i C++, med tre emuleringskärnor för assemblerprocessorer på i386-portarna för Linux och Windows.</description>
 		<description lang="zh_CN">Snes9x 是一款便携式自由软件 SNES 和 Super Famicom 模拟器。[CR][CR]Snes9x 是用 C++ 编写的，在 i386 Linux 和 Windows 移植上有三个汇编器 CPU 仿真核。</description>
 		<disclaimer lang="da_DK">Snes9X-teamet er ikke forbundet med eller tilknyttet nogen nævnt virksomhed på nogen måde. Udtalelserne fra Snes9X-teamet afspejler ikke synspunkterne fra de forskellige virksomheder, der er nævnt her. Virksomheder og alle produkter, der vedrører det pågældende firma, er varemærker tilhørende det pågældende firma. Kontakt venligst det pågældende firma for varemærke- og copyrightoplysninger.</disclaimer>
@@ -46,6 +48,7 @@
 		<disclaimer lang="en_GB">The Snes9X team is not connected or affiliated with any mentioned company in any way. The opinions of the Snes9X team do not reflect the views of the various companies mentioned here. Companies and all products pertaining to that company are trademarks of that company. Please contact that company for trademark and copyright information.</disclaimer>
 		<disclaimer lang="es_ES">El equipo de Snes9X no está relacionado ni afiliado a ninguna de las empresas mencionadas. Las opiniones del equipo de Snes9X no reflejan los puntos de vista de las distintas empresas mencionadas aquí. Las empresas y todos los productos pertenecientes a esa empresa son marcas registradas de esa empresa. Póngase en contacto con dicha empresa para obtener información sobre marcas comerciales y derechos de autor.</disclaimer>
 		<disclaimer lang="fi_FI">Snes9X-tiimi ei ole mitenkään yhteydessä tai sidoksissa mainittuihin yrityksiin, eivätkä Snes9X-tiimin mielipiteet heijasta mainittujen yritysten näkemyksiä. Yritykset ja kaikki niiden tuotteet ovat kyseisten yritysten tavaramerkkejä. Tavaramerkki- ja tekijänoikeustietoihin liittyen ole yhteydessä kyseisiin yrityksiin.</disclaimer>
+		<disclaimer lang="ga">Níl foireann SNES9X ceangailte ná cleamhnaithe le haon chuideachta a luaitear ar bhealach ar bith. Ní léiríonn tuairimí fhoireann SNES9X tuairimí na gcuideachtaí éagsúla a luaitear anseo. Is trádmharcanna den chuideachta sin iad cuideachtaí agus na táirgí go léir a bhaineann leis an gcuideachta sin. Téigh i dteagmháil leis an gcuideachta sin le haghaidh faisnéise trádmhairc agus cóipchirt.</disclaimer>
 		<disclaimer lang="sv_SE">Snes9X-teamet är inte anslutet eller anslutet till något nämnt företag på något sätt. Åsikterna från Snes9X-teamet återspeglar inte åsikterna från de olika företagen som nämns här. Företag och alla produkter som hör till det företaget är varumärken som tillhör det företaget. Kontakta det företaget för information om varumärken och upphovsrätt.</disclaimer>
 		<disclaimer lang="zh_CN">Snes9X 团队与上述任何公司均无任何关联。Snes9X 团队的意见并不反映此处提到的各个公司的意见。公司和与该公司相关的所有产品均为该公司的商标。请联系该公司获取商标和版权信息。</disclaimer>
 	</extension>
