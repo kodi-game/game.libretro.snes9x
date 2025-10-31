@@ -31,13 +31,13 @@
 		<setting label="30028" type="select" id="snes9x_layer_5" values="enabled|disabled" default="enabled"/>
 		<setting label="30029" type="select" id="snes9x_gfx_clip" values="enabled|disabled" default="enabled"/>
 		<setting label="30030" type="select" id="snes9x_gfx_transp" values="enabled|disabled" default="enabled"/>
-		<setting label="30031" type="select" id="snes9x_sndchan_1" values="enabled|disabled" default="enabled"/>
-		<setting label="30032" type="select" id="snes9x_sndchan_2" values="enabled|disabled" default="enabled"/>
-		<setting label="30033" type="select" id="snes9x_sndchan_3" values="enabled|disabled" default="enabled"/>
-		<setting label="30034" type="select" id="snes9x_sndchan_4" values="enabled|disabled" default="enabled"/>
-		<setting label="30035" type="select" id="snes9x_sndchan_5" values="enabled|disabled" default="enabled"/>
-		<setting label="30036" type="select" id="snes9x_sndchan_6" values="enabled|disabled" default="enabled"/>
-		<setting label="30037" type="select" id="snes9x_sndchan_7" values="enabled|disabled" default="enabled"/>
-		<setting label="30038" type="select" id="snes9x_sndchan_8" values="enabled|disabled" default="enabled"/>
+		<setting label="30039" type="select" id="snes9x_sndchan_volume_1" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30040" type="select" id="snes9x_sndchan_volume_2" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30041" type="select" id="snes9x_sndchan_volume_3" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30042" type="select" id="snes9x_sndchan_volume_4" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30043" type="select" id="snes9x_sndchan_volume_5" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30044" type="select" id="snes9x_sndchan_volume_6" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30045" type="select" id="snes9x_sndchan_volume_7" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
+		<setting label="30046" type="select" id="snes9x_sndchan_volume_8" values="100|0|10|20|30|40|50|60|70|80|90" default="100"/>
 	</category>
 </settings>
