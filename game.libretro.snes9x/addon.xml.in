@@ -30,6 +30,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="cs_CZ">Nintendo - SNES / SFC (Snes9x)</summary>
 		<summary lang="da_DK">Nintendo - SNES / SFC (Snes9x)</summary>
 		<summary lang="en_GB">Nintendo - SNES / SFC (Snes9x)</summary>
 		<summary lang="es_ES">Nintendo - SNES / SFC (Snes9x)</summary>
@@ -37,6 +38,7 @@
 		<summary lang="ru_RU">Nintendo — SNES / SFC (Snes9x)</summary>
 		<summary lang="sv_SE">Nintendo - SNES / SFC (Snes9x)</summary>
 		<summary lang="zh_CN">任天堂 - SNES / SFC (Snes9x)</summary>
+		<description lang="cs_CZ">Snes9x je přenositelný freeware emulátor SNES a Super Famicom.[CR][CR]Snes9x je napsaný v C++ a v portech pro i386 Linux a Windows obsahuje tři assemblerová jádra emulace CPU.</description>
 		<description lang="da_DK">Snes9x er en bærbar, freeware SNES- og Super Famicom-emulator.[CR][CR]Snes9x er kodet i C++ med tre CPU emuleringskerner på i386 Linux- og Windows-versionerne.</description>
 		<description lang="de_DE">Snes9x ist ein portabler, kostenloser SNES- und Super-Famicom-Emulator, der in C++ programmiert ist und drei Assembler-CPU-Emulationskerne in den i386-Linux- und Windows-Ports besitzt.</description>
 		<description lang="en_GB">Snes9x is a portable, freeware SNES and Super Famicom emulator.[CR][CR]Snes9x is coded in C++, with three assembler CPU emulation cores on the i386 Linux and Windows ports.</description>
@@ -46,6 +48,7 @@
 		<description lang="ru_RU">Snes9x — это портативный бесплатный эмулятор SNES и Super Famicom.[CR][CR]Snes9x написан на C++, с тремя ассемблерными ядрами эмуляции ЦП для портов i386 Linux и Windows.</description>
 		<description lang="sv_SE">Snes9x är en portabel freeware-emulator för SNES och Super Famicom.[CR][CR]Snes9x är kodad i C++, med tre emuleringskärnor för assemblerprocessorer på i386-portarna för Linux och Windows.</description>
 		<description lang="zh_CN">Snes9x 是一款便携式自由软件 SNES 和 Super Famicom 模拟器。[CR][CR]Snes9x 是用 C++ 编写的，在 i386 Linux 和 Windows 移植上有三个汇编器 CPU 仿真核。</description>
+		<disclaimer lang="cs_CZ">Tým Snes9X není žádným způsobem spojen ani přidružen k žádné ze zmíněných společností. Názory týmu Snes9X neodrážejí názory různých zde zmíněných společností. Společnosti a všechny produkty náležející těmto společnostem jsou ochrannými známkami daných společností. Informace o ochranných známkách a autorských právech získáte od příslušné společnosti.</disclaimer>
 		<disclaimer lang="da_DK">Snes9X-teamet er ikke forbundet med eller tilknyttet nogen nævnt virksomhed på nogen måde. Udtalelserne fra Snes9X-teamet afspejler ikke synspunkterne fra de forskellige virksomheder, der er nævnt her. Virksomheder og alle produkter, der vedrører det pågældende firma, er varemærker tilhørende det pågældende firma. Kontakt venligst det pågældende firma for varemærke- og copyrightoplysninger.</disclaimer>
 		<disclaimer lang="de_DE">Das Snes9X-Team ist in keiner Weise mit den genannten Unternehmen geschäftlich verbunden oder angegliedert. Die Meinungen des Snes9X-Teams spiegeln nicht die Ansichten der verschiedenen hier genannten Unternehmen wider. Unternehmen und alle Produkte, die mit diesem Unternehmen in Verbindung stehen, sind Warenzeichen des jeweiligen Unternehmens. Bitte an das jeweilige Unternehmen wenden, um Informationen zu Marken und Copyright zu erhalten.</disclaimer>
 		<disclaimer lang="en_GB">The Snes9X team is not connected or affiliated with any mentioned company in any way. The opinions of the Snes9X team do not reflect the views of the various companies mentioned here. Companies and all products pertaining to that company are trademarks of that company. Please contact that company for trademark and copyright information.</disclaimer>
