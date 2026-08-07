@@ -141,10 +141,6 @@ msgctxt "#30028"
 msgid "Show Sprite Layer"
 msgstr "Mostrar Capa de Sprites"
 
-msgctxt "#30029"
-msgid "Enable Graphic Clip Windows"
-msgstr "Activar Ventanas de Recorte Gráfico"
-
 msgctxt "#30030"
 msgid "Enable Transparency Effects"
 msgstr "Activar Efectos de Transparencia"
@@ -180,6 +176,26 @@ msgstr "Volumen % para Sonido Canal 7"
 msgctxt "#30046"
 msgid "Volume % for Sound Channel 8"
 msgstr "Volumen % para Sonido Canal 8"
+
+msgctxt "#30047"
+msgid "HD Mode 7 Scale"
+msgstr ""
+
+msgctxt "#30048"
+msgid "HD Mode 7 Filtering"
+msgstr ""
+
+msgctxt "#30049"
+msgid "Turbo Buttons (L2/R2/L3/R3)"
+msgstr ""
+
+msgctxt "#30050"
+msgid "MSU-1 Enhanced Audio"
+msgstr ""
+
+#~ msgctxt "#30029"
+#~ msgid "Enable Graphic Clip Windows"
+#~ msgstr "Activar Ventanas de Recorte Gráfico"
 
 #~ msgctxt "#30031"
 #~ msgid "Enable Sound Channel 1"

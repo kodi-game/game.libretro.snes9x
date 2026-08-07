@@ -141,10 +141,6 @@ msgctxt "#30028"
 msgid "Show Sprite Layer"
 msgstr "Показывать слой спрайтов"
 
-msgctxt "#30029"
-msgid "Enable Graphic Clip Windows"
-msgstr "Включить графические окна обрезки"
-
 msgctxt "#30030"
 msgid "Enable Transparency Effects"
 msgstr "Включить эффекты прозрачности"
@@ -180,6 +176,26 @@ msgstr "Громкость звукового канала 7, %"
 msgctxt "#30046"
 msgid "Volume % for Sound Channel 8"
 msgstr "Громкость звукового канала 8, %"
+
+msgctxt "#30047"
+msgid "HD Mode 7 Scale"
+msgstr ""
+
+msgctxt "#30048"
+msgid "HD Mode 7 Filtering"
+msgstr ""
+
+msgctxt "#30049"
+msgid "Turbo Buttons (L2/R2/L3/R3)"
+msgstr ""
+
+msgctxt "#30050"
+msgid "MSU-1 Enhanced Audio"
+msgstr ""
+
+#~ msgctxt "#30029"
+#~ msgid "Enable Graphic Clip Windows"
+#~ msgstr "Включить графические окна обрезки"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

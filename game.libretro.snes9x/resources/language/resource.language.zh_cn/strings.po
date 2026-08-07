@@ -141,10 +141,6 @@ msgctxt "#30028"
 msgid "Show Sprite Layer"
 msgstr "显示精灵图层"
 
-msgctxt "#30029"
-msgid "Enable Graphic Clip Windows"
-msgstr "启用图形裁剪窗口"
-
 msgctxt "#30030"
 msgid "Enable Transparency Effects"
 msgstr "启用透明度效果"
@@ -180,6 +176,26 @@ msgstr "声音通道 7 音量 %"
 msgctxt "#30046"
 msgid "Volume % for Sound Channel 8"
 msgstr "声音通道 8 音量 %"
+
+msgctxt "#30047"
+msgid "HD Mode 7 Scale"
+msgstr ""
+
+msgctxt "#30048"
+msgid "HD Mode 7 Filtering"
+msgstr ""
+
+msgctxt "#30049"
+msgid "Turbo Buttons (L2/R2/L3/R3)"
+msgstr ""
+
+msgctxt "#30050"
+msgid "MSU-1 Enhanced Audio"
+msgstr ""
+
+#~ msgctxt "#30029"
+#~ msgid "Enable Graphic Clip Windows"
+#~ msgstr "启用图形裁剪窗口"
 
 #~ msgctxt "#30031"
 #~ msgid "Enable Sound Channel 1"
