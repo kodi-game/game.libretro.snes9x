@@ -10,8 +10,8 @@
 		<setting label="30005" type="select" id="snes9x_blargg" values="disabled|monochrome|rf|composite|s-video|rgb" default="disabled"/>
 		<setting label="30006" type="select" id="snes9x_audio_interpolation" values="gaussian|cubic|sinc|none|linear" default="gaussian"/>
 		<setting label="30007" type="select" id="snes9x_up_down_allowed" values="disabled|enabled" default="disabled"/>
-		<setting label="30049" type="select" id="snes9x_turbo_buttons" values="disabled|enabled" default="disabled"/>
 		<setting label="30008" type="select" id="snes9x_overclock_superfx" values="100%|50%|60%|70%|80%|90%|150%|200%|250%|300%|350%|400%|450%|500%" default="100%"/>
+		<setting label="30051" type="select" id="snes9x_superfx_timing" values="compat|hardware" default="compat"/>
 		<setting label="30009" type="select" id="snes9x_overclock_cycles" values="disabled|light|compatible|max" default="disabled"/>
 		<setting label="30010" type="select" id="snes9x_reduce_sprite_flicker" values="disabled|enabled" default="disabled"/>
 		<setting label="30011" type="select" id="snes9x_randomize_memory" values="disabled|enabled" default="disabled"/>
