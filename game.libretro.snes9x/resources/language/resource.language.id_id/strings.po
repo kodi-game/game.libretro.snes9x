@@ -445,6 +445,14 @@ msgctxt "#30114"
 msgid "Configure low-level video layer / GFX effect / audio channel parameters."
 msgstr ""
 
+msgctxt "#30115"
+msgid "4:3"
+msgstr ""
+
+msgctxt "#30116"
+msgid "Touchscreen"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Pengaturan"
