@@ -20,7 +20,7 @@
 					<default>4:3</default>
 					<constraints>
 						<options>
-							<option>4:3</option>
+							<option label="30115">4:3</option>
 							<option label="30057">4:3 scaled</option>
 							<option label="30058">uncorrected</option>
 							<option label="30053">auto</option>
@@ -260,7 +260,7 @@
 					<constraints>
 						<options>
 							<option label="30107">Lightgun</option>
-							<option>Touchscreen</option>
+							<option label="30116">Touchscreen</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
