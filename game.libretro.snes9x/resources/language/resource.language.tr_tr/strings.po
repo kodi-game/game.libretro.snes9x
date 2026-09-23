@@ -31,119 +31,119 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Console Region (Reload Core)"
-msgstr ""
+msgstr "Konsol Bölgesi (Core Yenilenir)"
 
 msgctxt "#30002"
 msgid "Preferred Aspect Ratio"
-msgstr ""
+msgstr "Tercih Edilen En Boy Oranı"
 
 msgctxt "#30003"
 msgid "Crop Overscan"
-msgstr ""
+msgstr "Aşırı Taramayı Kırp"
 
 msgctxt "#30004"
 msgid "Hi-Res Blending"
-msgstr ""
+msgstr "Hi-Res Karışımı"
 
 msgctxt "#30005"
 msgid "Blargg NTSC Filter"
-msgstr ""
+msgstr "Blargg NTSC Filtresi"
 
 msgctxt "#30006"
 msgid "Audio Interpolation"
-msgstr ""
+msgstr "Ses Enterpolasyonu"
 
 msgctxt "#30007"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "Karşı Yönlere İzin Ver"
 
 msgctxt "#30008"
 msgid "SuperFX Overclocking"
-msgstr ""
+msgstr "SuperFX Hız Aşırtma"
 
 msgctxt "#30009"
 msgid "Reduce Slowdown (Hack, Unsafe)"
-msgstr ""
+msgstr "Yavaşlamayı Azalt (Hack, Güvensiz)"
 
 msgctxt "#30010"
 msgid "Reduce Flickering (Hack, Unsafe)"
-msgstr ""
+msgstr "Kırılmayı Azalt (Hack, Güvensiz)"
 
 msgctxt "#30011"
 msgid "Randomize Memory (Unsafe)"
-msgstr ""
+msgstr "Belleği Rastgele Kıl (Güvensiz)"
 
 msgctxt "#30012"
 msgid "Block Invalid VRAM Access"
-msgstr ""
+msgstr "Geçersiz VRAM Erişimini Engelle"
 
 msgctxt "#30013"
 msgid "Echo Buffer Hack (Unsafe, only enable for old addmusic hacks)"
-msgstr ""
+msgstr "Eko Tampon Hack (Güvenli değil, yalnızca eski addmusic için etkinleştirin)"
 
 msgctxt "#30014"
 msgid "Light Gun Mode"
-msgstr ""
+msgstr "Light Gun Modu"
 
 msgctxt "#30015"
 msgid "Super Scope Reverse Trigger Buttons"
-msgstr ""
+msgstr "Super Scope Ters Tetik Düğmeleri"
 
 msgctxt "#30016"
 msgid "Super Scope Crosshair"
-msgstr ""
+msgstr "Super Scope İmkeç"
 
 msgctxt "#30017"
 msgid "Super Scope Color"
-msgstr ""
+msgstr "Super Scope Rengi"
 
 msgctxt "#30018"
 msgid "Justifier 1 Crosshair"
-msgstr ""
+msgstr "Justifier 1 İmleci"
 
 msgctxt "#30019"
 msgid "Justifier 1 Color"
-msgstr ""
+msgstr "Justifier 1 Rengi"
 
 msgctxt "#30020"
 msgid "Justifier 2 Crosshair"
-msgstr ""
+msgstr "Justifier 2 İmleci"
 
 msgctxt "#30021"
 msgid "Justifier 2 Color"
-msgstr ""
+msgstr "Justifier 2 REngi"
 
 msgctxt "#30022"
 msgid "M.A.C.S. Rifle Crosshair"
-msgstr ""
+msgstr "M.A.C.S. Tüfek "
 
 msgctxt "#30023"
 msgid "M.A.C.S. Rifle Color"
-msgstr ""
+msgstr "M.A.C.S. Tüfek Rengi"
 
 msgctxt "#30024"
 msgid "Show Layer 1"
-msgstr ""
+msgstr "1. Katmanı Göster"
 
 msgctxt "#30025"
 msgid "Show Layer 2"
-msgstr ""
+msgstr "2. Katmanı Göster"
 
 msgctxt "#30026"
 msgid "Show Layer 3"
-msgstr ""
+msgstr "3. Katmanı Göster"
 
 msgctxt "#30027"
 msgid "Show Layer 4"
-msgstr ""
+msgstr "4. Katmanı Göster"
 
 msgctxt "#30028"
 msgid "Show Sprite Layer"
-msgstr ""
+msgstr "Sprite Katmanını Göster"
 
 msgctxt "#30030"
 msgid "Enable Transparency Effects"
-msgstr ""
+msgstr "Saydamlık Efektlerini Etkinleştir"
 
 msgctxt "#30039"
 msgid "Volume % for Sound Channel 1"
@@ -195,11 +195,11 @@ msgstr ""
 
 msgctxt "#30052"
 msgid "Specify which region the system is from. 'PAL' is 50hz, 'NTSC' is 60hz. Games will run faster or slower than normal if the incorrect region is selected."
-msgstr ""
+msgstr "Sistemin hangi bölgeden olduğunu belirtir.. 'PAL' 50hz'dir, 'NTSC' ise 60hz. Yanlış bölge seçiliyse, oyunlar normalden daha hızlı veya daha yavaş çalışacaktır."
 
 msgctxt "#30053"
 msgid "Auto"
-msgstr ""
+msgstr "Otomatik"
 
 msgctxt "#30054"
 msgid "NTSC"
@@ -211,35 +211,35 @@ msgstr ""
 
 msgctxt "#30056"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Tercih edilen içerik en boy oranını seçin. Bu, yalnızca RetroArch’ın en boy oranı Video ayarlarında 'Core tarafından' olarak ayarlandığında uygulanacaktır."
 
 msgctxt "#30057"
 msgid "4:3 (Preserved)"
-msgstr ""
+msgstr "4:3 (Korunmuş)"
 
 msgctxt "#30058"
 msgid "Uncorrected"
-msgstr ""
+msgstr "Düzeltilmemiş"
 
 msgctxt "#30059"
 msgid "Remove the borders at the top and bottom of the screen, typically unused by games and hidden by the bezel of a standard-definition television. 'Auto' will attempt to detect and crop the ~8 pixel overscan based on the current content."
-msgstr ""
+msgstr "Ekranın üst ve alt kısmındaki sınırlarını, tipik olarak standart çözünürlüklü bir televizyondakini kaldırır. 'Otomatik (~8 piksel)' ise geçerli içeriğe bağlı olarak aşırı taramayı algılamaya ve kırpmaya çalışacaktır."
 
 msgctxt "#30060"
 msgid "~8 Pixels"
-msgstr ""
+msgstr "~8 piksel"
 
 msgctxt "#30061"
 msgid "12 Pixels"
-msgstr ""
+msgstr "12 piksel"
 
 msgctxt "#30062"
 msgid "16 Pixels"
-msgstr ""
+msgstr "16 piksel"
 
 msgctxt "#30063"
 msgid "Auto (~8 Pixels)"
-msgstr ""
+msgstr "Otomatik (~8 piksel)"
 
 msgctxt "#30064"
 msgid "Render Mode 7 backgrounds at a higher horizontal resolution. 2x/4x sample the rotation matrix at sub-pixel steps; the _hv variants additionally resample vertically for square pixels. From snes9x2010."
@@ -275,19 +275,19 @@ msgstr ""
 
 msgctxt "#30072"
 msgid "Blend adjacent pixels when game switches to hi-res mode (512x448). Required for certain games that use hi-res mode to produce transparency effects (Kirby's Dream Land, Jurassic Park...)."
-msgstr ""
+msgstr "Oyun hi-res moduna geçtiğinde pikselleri karıştırır (512x448). Şeffaflık efektleri üretmek için hi-res modunu kullanan bazı oyunlar için gereklidir (Kirby's Dream Land, Jurassic Park ...)."
 
 msgctxt "#30073"
 msgid "Merge"
-msgstr ""
+msgstr "Birlşetir"
 
 msgctxt "#30074"
 msgid "Blur"
-msgstr ""
+msgstr "Bulanıklaştır"
 
 msgctxt "#30075"
 msgid "Apply a video filter to mimic various NTSC TV signals."
-msgstr ""
+msgstr "Çeşitli NTSC TV sinyallerini taklit etmek için bir video filtresi uygular."
 
 msgctxt "#30076"
 msgid "Monochrome"
@@ -311,7 +311,7 @@ msgstr ""
 
 msgctxt "#30081"
 msgid "Apply an audio filter. 'Gaussian' reproduces the bass-heavy sound of the original hardware. 'Cubic' and 'Sinc' are less accurate, and preserve more of the high range."
-msgstr ""
+msgstr "Belirtilen ses filtresini uygular. 'Gaussian', orijinal donanımın bas ağırlıklı sesini üretir. 'Cubic' ve 'Sinc' daha az doğrudur ve daha fazla aralığı korur."
 
 msgctxt "#30082"
 msgid "Gaussian"
@@ -327,7 +327,7 @@ msgstr ""
 
 msgctxt "#30085"
 msgid "None"
-msgstr ""
+msgstr "Hiçbiri"
 
 msgctxt "#30086"
 msgid "Linear"
@@ -335,15 +335,15 @@ msgstr ""
 
 msgctxt "#30087"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "Bunu etkinleştirmek aynı anda hem sola hem de sağa (veya yukarı ve aşağı) yönlere basma / hızlı değiştirme / tutma imkanı sağlar. Bu harekete dayalı hatalara neden olabilir."
 
 msgctxt "#30088"
 msgid "Show Light Gun Settings"
-msgstr ""
+msgstr "Light Gun Ayarlarını Göster"
 
 msgctxt "#30089"
 msgid "Enable configuration of Super Scope / Justifier / M.A.C.S. rifle input. NOTE: Quick Menu must be toggled for this setting to take effect."
-msgstr ""
+msgstr "Super Scope / Justifier / M.A.C.S. için tüfek girişi yapılandırmasını etkinleştir. NOT: Bu ayarın etkili olabilmesi için Hızlı Menü’nün açılması gerekir."
 
 msgctxt "#30090"
 msgid "Run the audio pipeline at 44.1 kHz when an MSU-1 game is loaded. When disabled, MSU-1's 44.1 kHz PCM stream is decimated to the SNES's native ~32 kHz output with no anti-alias filtering, folding the track's top octave into the audible band as slight hiss. When enabled, the MSU-1 stream passes through bit-exactly and the SPC sound is upsampled cleanly. Has no effect on non-MSU-1 games. Changing this takes effect on the next content load."
@@ -351,11 +351,11 @@ msgstr ""
 
 msgctxt "#30091"
 msgid "Show Advanced Audio/Video Settings"
-msgstr ""
+msgstr "Gelişmiş Ses/Video Ayarlarını Göster"
 
 msgctxt "#30092"
 msgid "Enable configuration of low-level video layer / GFX effect / audio channel parameters. NOTE: Quick Menu must be toggled for this setting to take effect."
-msgstr ""
+msgstr "Düşük seviye video katmanı / GFX etkisi / ses kanalı parametrelerinin yapılandırılmasını etkinleştirir. NOT: Bu ayarın etkili olabilmesi için Hızlı Menü’nün açılması gerekir."
 
 msgctxt "#30093"
 msgid "Emulation Hacks"
@@ -367,7 +367,7 @@ msgstr ""
 
 msgctxt "#30095"
 msgid "SuperFX coprocessor frequency multiplier. Can improve frame rate or cause timing errors. Values under 100% can improve game performance on slow devices."
-msgstr ""
+msgstr "SuperFX işlemcisi frekans çarpanıdır. Kare hızını artırabilir veya zamanlama hatalarına neden olabilir. % 100'ün altındaki değerler yavaş cihazlarda oyun performansını artırabilir."
 
 msgctxt "#30096"
 msgid "'Compatibility' runs the GSU with snes9x2010's field-tested per-line budget. 'Hardware-derived' charges each instruction its approximate real GSU cycle cost (cache-aware fetches, 5-cycle memory accesses, amortized plot flushes), matching ares/MiSTer wait states; backported from mainline Snes9x. More accurate, less field-tested. Works together with SuperFX Overclocking."
@@ -383,35 +383,35 @@ msgstr ""
 
 msgctxt "#30099"
 msgid "Overclock SNES CPU. May cause games to crash! Use 'Light' for shorter loading times, 'Compatible' for most games exhibiting slowdown and 'Max' only if absolutely required (Gradius 3, Super R-type...)."
-msgstr ""
+msgstr "SNES İşlemcisi için hız aşırtmadır. Oyunların çökmesine neden olabilir! Daha kısa yükleme süreleri için 'Hafif'i, yavaşlama gösteren oyunların çoğunda' Uyumlu 've yalnızca kesinlikle gerekliyse' Maks 'kullanın (Gradius 3, Süper R tipi ...)."
 
 msgctxt "#30100"
 msgid "Light"
-msgstr ""
+msgstr "Hafif"
 
 msgctxt "#30101"
 msgid "Compatible"
-msgstr ""
+msgstr "Uyumlu"
 
 msgctxt "#30102"
 msgid "Max"
-msgstr ""
+msgstr "Maks"
 
 msgctxt "#30103"
 msgid "Increases number of sprites that can be drawn simultaneously on screen."
-msgstr ""
+msgstr "Ekranda aynı anda çizilebilen sprite sayısını arttırır."
 
 msgctxt "#30104"
 msgid "Randomizes system RAM upon start-up. Some games such as 'Super Off Road' use system RAM as a random number generator for item placement and AI behavior, to make gameplay more unpredictable."
-msgstr ""
+msgstr "Başlatıldığında sistem RAM'ını rastgele ayarlar. 'Super Off Road' gibi bazı oyunlar, oyunu daha öngörülemeyen hale getirmek için öğe yerleştirme ve AI davranışı için rastgele sayı üreticisi olarak sistem RAM'ini kullanır."
 
 msgctxt "#30105"
 msgid "Some homebrew/ROM hacks require this option to be disabled for correct operation."
-msgstr ""
+msgstr "Bazı Homebrew/ROM'lar, doğru işlem için bu seçeneğin devre dışı bırakılmasını gerektirir."
 
 msgctxt "#30106"
 msgid "Some homebrew/ROM hacks require this option to be enabled for correct operation."
-msgstr ""
+msgstr "Bazı Homebrew/ROM'lar, doğru işlem için bu seçeneğin devre dışı bırakılmasını gerektirir."
 
 msgctxt "#30107"
 msgid "Light Gun"
@@ -423,19 +423,19 @@ msgstr ""
 
 msgctxt "#30109"
 msgid "Use a mouse-controlled 'Light Gun' or 'Touchscreen' input."
-msgstr ""
+msgstr "Fare kontrollü 'Light Gun' veya 'Dokunmatik Ekran' girişini kullanın."
 
 msgctxt "#30110"
 msgid "Swap the positions of the Super Scope 'Fire' and 'Cursor' buttons."
-msgstr ""
+msgstr "Süper Scope için 'Ateş' ve 'İmleç' butonlarının pozisyonlarını değiştir."
 
 msgctxt "#30111"
 msgid "Change the crosshair size on screen."
-msgstr ""
+msgstr "Ekrandaki imleç işaretinin rengini değiştirin.."
 
 msgctxt "#30112"
 msgid "Change the crosshair color on screen."
-msgstr ""
+msgstr "Ekrandaki imleç işaretinin rengini değiştirin."
 
 msgctxt "#30113"
 msgid "Advanced Audio/Video Settings"
