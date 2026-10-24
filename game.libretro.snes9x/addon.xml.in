@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.snes9x"
 		name="Nintendo - SNES / SFC (Snes9x)"
-		version="1.63.0.63"
+		version="1.63.0.64"
 		provider-name="Snes9x Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -19,6 +19,7 @@
 		<supports_standalone>false</supports_standalone>
 		<supports_disc_control>false</supports_disc_control>
 		<libretro_core>snes9x_libretro</libretro_core>
+		<savestate_features>deterministic</savestate_features>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>Non-commercial</license>
