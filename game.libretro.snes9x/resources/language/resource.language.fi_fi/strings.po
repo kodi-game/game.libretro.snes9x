@@ -441,6 +441,18 @@ msgctxt "#30116"
 msgid "Touchscreen"
 msgstr ""
 
+msgctxt "#30117"
+msgid "Reduce Slowdown (Unsafe)"
+msgstr ""
+
+msgctxt "#30118"
+msgid "Reduce Flickering (Unsafe)"
+msgstr ""
+
+msgctxt "#30119"
+msgid "Mode"
+msgstr ""
+
 #~ msgctxt "#30009"
 #~ msgid "Reduce Slowdown (Hack, Unsafe)"
 #~ msgstr "Vähennä hidastusta (hakkerointi, turvaton)"
@@ -448,10 +460,6 @@ msgstr ""
 #~ msgctxt "#30010"
 #~ msgid "Reduce Flickering (Hack, Unsafe)"
 #~ msgstr "Vähennä välkettä (hakkerointi, turvaton)"
-
-#~ msgctxt "#30014"
-#~ msgid "Light Gun Mode"
-#~ msgstr ""
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
