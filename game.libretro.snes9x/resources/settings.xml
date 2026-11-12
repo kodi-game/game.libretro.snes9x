@@ -193,7 +193,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="snes9x_overclock_cycles" type="string" label="30009" help="30099">
+				<setting id="snes9x_overclock_cycles" type="string" label="30117" help="30099">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -206,7 +206,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="snes9x_reduce_sprite_flicker" type="string" label="30010" help="30103">
+				<setting id="snes9x_reduce_sprite_flicker" type="string" label="30118" help="30103">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -254,7 +254,7 @@
 		</category>
 		<category id="lightgun" label="30107" help="30108">
 			<group id="1">
-				<setting id="snes9x_lightgun_mode" type="string" label="30014" help="30109">
+				<setting id="snes9x_lightgun_mode" type="string" label="30119" help="30109">
 					<level>0</level>
 					<default>Lightgun</default>
 					<constraints>

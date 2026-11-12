@@ -61,14 +61,6 @@ msgctxt "#30008"
 msgid "SuperFX Overclocking"
 msgstr "Overclock SuperFX"
 
-msgctxt "#30009"
-msgid "Reduce Slowdown (Hack, Unsafe)"
-msgstr "Riduci rallentamenti (hack, non sicuro)"
-
-msgctxt "#30010"
-msgid "Reduce Flickering (Hack, Unsafe)"
-msgstr "Riduci sfarfallio (hack, non sicuro)"
-
 msgctxt "#30011"
 msgid "Randomize Memory (Unsafe)"
 msgstr "Casualizza memoria (non sicuro)"
@@ -80,10 +72,6 @@ msgstr "Blocca accessi VRAM non validi"
 msgctxt "#30013"
 msgid "Echo Buffer Hack (Unsafe, only enable for old addmusic hacks)"
 msgstr "Hack buffer eco (non sicuro, abilitare solo per vecchi hack addmusic)"
-
-msgctxt "#30014"
-msgid "Light Gun Mode"
-msgstr "Modalità pistola ottica"
 
 msgctxt "#30015"
 msgid "Super Scope Reverse Trigger Buttons"
@@ -452,6 +440,18 @@ msgstr ""
 msgctxt "#30116"
 msgid "Touchscreen"
 msgstr ""
+
+#~ msgctxt "#30009"
+#~ msgid "Reduce Slowdown (Hack, Unsafe)"
+#~ msgstr "Riduci rallentamenti (hack, non sicuro)"
+
+#~ msgctxt "#30010"
+#~ msgid "Reduce Flickering (Hack, Unsafe)"
+#~ msgstr "Riduci sfarfallio (hack, non sicuro)"
+
+#~ msgctxt "#30014"
+#~ msgid "Light Gun Mode"
+#~ msgstr "Modalità pistola ottica"
 
 #~ msgctxt "#30049"
 #~ msgid "Turbo Buttons (L2/R2/L3/R3)"

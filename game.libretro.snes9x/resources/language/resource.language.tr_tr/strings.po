@@ -61,14 +61,6 @@ msgctxt "#30008"
 msgid "SuperFX Overclocking"
 msgstr "SuperFX Hız Aşırtma"
 
-msgctxt "#30009"
-msgid "Reduce Slowdown (Hack, Unsafe)"
-msgstr "Yavaşlamayı Azalt (Hack, Güvensiz)"
-
-msgctxt "#30010"
-msgid "Reduce Flickering (Hack, Unsafe)"
-msgstr "Kırılmayı Azalt (Hack, Güvensiz)"
-
 msgctxt "#30011"
 msgid "Randomize Memory (Unsafe)"
 msgstr "Belleği Rastgele Kıl (Güvensiz)"
@@ -80,10 +72,6 @@ msgstr "Geçersiz VRAM Erişimini Engelle"
 msgctxt "#30013"
 msgid "Echo Buffer Hack (Unsafe, only enable for old addmusic hacks)"
 msgstr "Eko Tampon Hack (Güvenli değil, yalnızca eski addmusic için etkinleştirin)"
-
-msgctxt "#30014"
-msgid "Light Gun Mode"
-msgstr "Light Gun Modu"
 
 msgctxt "#30015"
 msgid "Super Scope Reverse Trigger Buttons"
@@ -452,3 +440,27 @@ msgstr ""
 msgctxt "#30116"
 msgid "Touchscreen"
 msgstr ""
+
+msgctxt "#30117"
+msgid "Reduce Slowdown (Unsafe)"
+msgstr "Yavaşlamayı Azalt (Hack, Güvensiz)"
+
+msgctxt "#30118"
+msgid "Reduce Flickering (Unsafe)"
+msgstr "Kırılmayı Azalt (Hack, Güvensiz)"
+
+msgctxt "#30119"
+msgid "Mode"
+msgstr "Light Gun Modu"
+
+#~ msgctxt "#30009"
+#~ msgid "Reduce Slowdown (Hack, Unsafe)"
+#~ msgstr "Yavaşlamayı Azalt (Hack, Güvensiz)"
+
+#~ msgctxt "#30010"
+#~ msgid "Reduce Flickering (Hack, Unsafe)"
+#~ msgstr "Kırılmayı Azalt (Hack, Güvensiz)"
+
+#~ msgctxt "#30014"
+#~ msgid "Light Gun Mode"
+#~ msgstr "Light Gun Modu"

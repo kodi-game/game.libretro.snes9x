@@ -61,14 +61,6 @@ msgctxt "#30008"
 msgid "SuperFX Overclocking"
 msgstr "Přetaktování SuperFX"
 
-msgctxt "#30009"
-msgid "Reduce Slowdown (Hack, Unsafe)"
-msgstr "Omezit zpomalení (hack, nebezpečné)"
-
-msgctxt "#30010"
-msgid "Reduce Flickering (Hack, Unsafe)"
-msgstr "Omezit blikání (hack, nebezpečné)"
-
 msgctxt "#30011"
 msgid "Randomize Memory (Unsafe)"
 msgstr "Náhodně inicializovat paměť (nebezpečné)"
@@ -80,10 +72,6 @@ msgstr "Blokovat neplatný přístup k VRAM"
 msgctxt "#30013"
 msgid "Echo Buffer Hack (Unsafe, only enable for old addmusic hacks)"
 msgstr "Hack echo bufferu (nebezpečné, povolte jen pro staré hacky addmusic)"
-
-msgctxt "#30014"
-msgid "Light Gun Mode"
-msgstr "Režim světelné pistole"
 
 msgctxt "#30015"
 msgid "Super Scope Reverse Trigger Buttons"
@@ -452,6 +440,18 @@ msgstr "4:3"
 msgctxt "#30116"
 msgid "Touchscreen"
 msgstr "Dotyková obrazovka"
+
+#~ msgctxt "#30009"
+#~ msgid "Reduce Slowdown (Hack, Unsafe)"
+#~ msgstr "Omezit zpomalení (hack, nebezpečné)"
+
+#~ msgctxt "#30010"
+#~ msgid "Reduce Flickering (Hack, Unsafe)"
+#~ msgstr "Omezit blikání (hack, nebezpečné)"
+
+#~ msgctxt "#30014"
+#~ msgid "Light Gun Mode"
+#~ msgstr "Režim světelné pistole"
 
 #~ msgctxt "#30049"
 #~ msgid "Turbo Buttons (L2/R2/L3/R3)"

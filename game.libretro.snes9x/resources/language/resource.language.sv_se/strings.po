@@ -61,14 +61,6 @@ msgctxt "#30008"
 msgid "SuperFX Overclocking"
 msgstr "SuperFX-överklockning"
 
-msgctxt "#30009"
-msgid "Reduce Slowdown (Hack, Unsafe)"
-msgstr "Minska långsamhet (hack, osäkert)"
-
-msgctxt "#30010"
-msgid "Reduce Flickering (Hack, Unsafe)"
-msgstr "Minska flimmer (hack, osäkert)"
-
 msgctxt "#30011"
 msgid "Randomize Memory (Unsafe)"
 msgstr "Slumpa minne (osäkert)"
@@ -80,10 +72,6 @@ msgstr "Blockera ogiltig VRAM-åtkomst"
 msgctxt "#30013"
 msgid "Echo Buffer Hack (Unsafe, only enable for old addmusic hacks)"
 msgstr "Echo-buffert-hack (osäkert, aktivera endast för gamla addmusic-hack)"
-
-msgctxt "#30014"
-msgid "Light Gun Mode"
-msgstr "Ljuspistolsläge"
 
 msgctxt "#30015"
 msgid "Super Scope Reverse Trigger Buttons"
@@ -452,6 +440,18 @@ msgstr "4:3"
 msgctxt "#30116"
 msgid "Touchscreen"
 msgstr "Pekskärm"
+
+#~ msgctxt "#30009"
+#~ msgid "Reduce Slowdown (Hack, Unsafe)"
+#~ msgstr "Minska långsamhet (hack, osäkert)"
+
+#~ msgctxt "#30010"
+#~ msgid "Reduce Flickering (Hack, Unsafe)"
+#~ msgstr "Minska flimmer (hack, osäkert)"
+
+#~ msgctxt "#30014"
+#~ msgid "Light Gun Mode"
+#~ msgstr "Ljuspistolsläge"
 
 #, fuzzy
 #~ msgctxt "#30029"

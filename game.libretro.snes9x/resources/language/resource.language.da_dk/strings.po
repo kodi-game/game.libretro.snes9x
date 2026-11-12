@@ -61,14 +61,6 @@ msgctxt "#30008"
 msgid "SuperFX Overclocking"
 msgstr "SuperFX overclocking"
 
-msgctxt "#30009"
-msgid "Reduce Slowdown (Hack, Unsafe)"
-msgstr "Reducer hastighedsnedsættelse (hack, usikker)"
-
-msgctxt "#30010"
-msgid "Reduce Flickering (Hack, Unsafe)"
-msgstr "Reducer flimmer (hack, usikker)"
-
 msgctxt "#30011"
 msgid "Randomize Memory (Unsafe)"
 msgstr "Tilfældiggør hukommelse (usikker)"
@@ -80,10 +72,6 @@ msgstr "Bloker ugyldig VRAM-adgang"
 msgctxt "#30013"
 msgid "Echo Buffer Hack (Unsafe, only enable for old addmusic hacks)"
 msgstr "Hack for ekkobuffer (usikker, aktiver kun for gamle addmusic hacks)"
-
-msgctxt "#30014"
-msgid "Light Gun Mode"
-msgstr "Tilstand for lightgun"
 
 msgctxt "#30015"
 msgid "Super Scope Reverse Trigger Buttons"
@@ -452,6 +440,18 @@ msgstr ""
 msgctxt "#30116"
 msgid "Touchscreen"
 msgstr ""
+
+#~ msgctxt "#30009"
+#~ msgid "Reduce Slowdown (Hack, Unsafe)"
+#~ msgstr "Reducer hastighedsnedsættelse (hack, usikker)"
+
+#~ msgctxt "#30010"
+#~ msgid "Reduce Flickering (Hack, Unsafe)"
+#~ msgstr "Reducer flimmer (hack, usikker)"
+
+#~ msgctxt "#30014"
+#~ msgid "Light Gun Mode"
+#~ msgstr "Tilstand for lightgun"
 
 #~ msgctxt "#30029"
 #~ msgid "Enable Graphic Clip Windows"
